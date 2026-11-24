@@ -13,6 +13,7 @@ albo automatyzacji procesów z AI. Warszawa, hybrydowo lub zdalnie.
 
 | Projekt | Co robi | Stack |
 |---|---|---|
+| [orkiestrator](https://github.com/RG-automations/orkiestrator) | Zespół social media z AI: research, szkice postów i odpowiedzi pisze AI, nic nie wychodzi publicznie bez kliknięcia „Zatwierdź" (148 testów, CI) | Python, SQLite, GitHub Actions |
 | [CrewAtlas](https://github.com/RG-automations/crew-atlas) | Aplikacja dla grup podróżujących razem: wspólna mapa, plan podróży, rozliczanie wydatków w wielu walutach (kursy NBP) | Flutter, Firebase, Cloudflare Workers |
 | [Home Inventory](https://github.com/RG-automations/home-inventory) | Gdzie leżą moje rzeczy: drzewo lokalizacji, zdjęcia, wyszukiwanie | TypeScript, Expo, PocketBase |
 
