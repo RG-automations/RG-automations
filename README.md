@@ -2,8 +2,8 @@
 
 *Data analyst turned AI-native developer · Warsaw · building business apps and dashboards with Claude Code.*
 
-Przez 15 lat pracowałem z danymi biznesowymi: raporty i modele prognoz w Excelu od 2011 r.,
-dashboardy Power BI od 2017 r. (Carlsberg Supply Company, Vision Express, wcześniej ubezpieczenia).
+15 lat jako analityk i planista popytu w handlu i dystrybucji (raporty i prognozy w Excelu od 2011,
+dashboardy Power BI od 2017), wcześniej w branży ubezpieczeniowej.
 Od 2025 r. programuję, w całości z Claude Code: buduję aplikacje, panele i automatyzacje.
 
 **Czego szukam:** pracy jako AI-native developer, przy aplikacjach i panelach biznesowych z AI
